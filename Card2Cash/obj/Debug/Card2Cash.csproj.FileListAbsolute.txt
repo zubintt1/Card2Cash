@@ -1,0 +1,11 @@
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\bin\Debug\Card2Cash.exe.config
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\bin\Debug\Card2Cash.exe
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\bin\Debug\Card2Cash.pdb
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.ActivateForm.resources
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.PayForm1.resources
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.PayForm2.resources
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.Properties.Resources.resources
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.csproj.GenerateResource.Cache
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.exe
+C:\Users\Bodhiswattwa\Documents\Visual Studio 2013\Projects\Card2Cash\Card2Cash\obj\Debug\Card2Cash.pdb
